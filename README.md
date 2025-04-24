@@ -16,7 +16,7 @@
 Iniciando uma carreira no mundo da tecnologia, atualmente no terceiro periodo de Cibersegurança, tive contato com algumas linguagens e realizei pequenos projetos. Dentre eles foi feitos projetos e trabalhos utilizando html, JavaScript, Python e Rust.
 
 ## Projetos:
-# Calculadora
+# Projeto Site
 [Baixar projeto de calculadora](./calculadora.html)
 
 Esse foi um dos meus projetos iniciais, aonde criei uma calculadora com as operações de adição, multiplicação, subtração e divisão. Com alguns conceitos basicos de CSS e JavaScript.
